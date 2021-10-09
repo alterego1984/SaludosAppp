@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "spFRszdOOJZ2PrfqO1AvrUHRINt5fMO4lYzowbt1j7pb3tyyRoPTYL4lreXQPFUBFobe74R5J6vZjxKRbuomBw==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos Ciclo 3\\Saludos\\MisionTIC-2021-Ciclo3-WF\\HolaWeb.App.Dominio\\HolaWeb.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

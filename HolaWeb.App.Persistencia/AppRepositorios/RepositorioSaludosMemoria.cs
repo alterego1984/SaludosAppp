@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using HolaWeb.App.Dominio;
+using System.Linq;
 
 namespace HolaWeb.App.Persistencia.AppRepositorios
 {
@@ -20,6 +21,10 @@ namespace HolaWeb.App.Persistencia.AppRepositorios
         public IEnumerable<Saludo> GetAll()
         {
             return saludos;
+        }
+
+        public Saludo GetSaludoPorId(int idSaludo){
+            return saludos.SingleOrDefault(q=>q.Id==idSaludo);
         }
     }
 }

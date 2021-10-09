@@ -10,6 +10,11 @@
             <td>@saludo.EnEspañol</td>
             <td>@saludo.EnIngles</td>
             <td>@saludo.EnItaliano</td>
+            <td>
+                <a class="btn btn-primary" asp-page="./Detail" asp-route-saludoId="@saludo.Id">
+                <i class="fa fa-flag"></i>
+                 Detalle</a>
+            </td>
         </tr>
     }
 </table>

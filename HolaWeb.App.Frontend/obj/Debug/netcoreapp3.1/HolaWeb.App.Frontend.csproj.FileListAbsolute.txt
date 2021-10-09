@@ -38,3 +38,46 @@ C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
 C:\HolaWeb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.exe
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.deps.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.runtimeconfig.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.runtimeconfig.dev.json
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.dll
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.dll
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.dll
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csprojAssemblyReference.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfoInputs.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.AssemblyInfo.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorAssemblyInfo.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorAssemblyInfo.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.TagHelpers.input.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.TagHelpers.output.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorCoreGenerate.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\List.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.Views.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CopyComplete
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HolaWeb.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\HolaWeb.App.Frontend.StaticWebAssets.xml
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.dll
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.genruntimeconfig.cache
+C:\Proyectos Ciclo 3\Saludos\MisionTIC-2021-Ciclo3-WF\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\Detail.cshtml.g.cs
